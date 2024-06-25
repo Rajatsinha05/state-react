@@ -1,0 +1,10 @@
+.h1,
+#h2 {
+  font-size: 150px;
+  color: #e624d3;
+}
+
+#parent-box {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+}
